@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+  background: rgb(70, 142, 236);
+  font: normal 15pt Oswald;
+}
+
+header{
+  color: white;
+  text-align: center;
+
+}
+
+#foto{
+  width: 150px;
+  height: 150px;
+  border-radius: 100px;
+}
+
+h2{
+  text-align: center;
+}
+
+div{
+  text-align: center;
+  padding: 20px;
+}
+
+#res{
+  padding: 65px;
+  margin-top: -70px;
+}
+
+section{
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 0px;
+  width: 400px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.836);
+}
+
+footer{
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
